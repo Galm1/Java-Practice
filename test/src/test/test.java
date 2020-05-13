@@ -572,7 +572,7 @@ public class test {
 		
 		
 		
-		int[][] scores = new int [5][4];
+		/**int[][] scores = new int [5][4];
 		int total = 0;
 		double average = 0;
 		
@@ -616,7 +616,7 @@ public class test {
 		}
 		
 		System.out.println("\nTotal points: " + total);		
-		System.out.println("\nAverage points: " + average);
+		System.out.println("\nAverage points: " + average);**/
 		
 		
 		
